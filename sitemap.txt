@@ -1,0 +1,2 @@
+http://example.com/articles/hello-world/
+http://example.com/
