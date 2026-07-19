@@ -1,0 +1,3 @@
+var posts=["posts/2026/07/18/SNDK-26-07-18/","posts/2026/07/18/ORCL-26-07-18/","posts/2026/07/17/NBIS-26-07-17/","posts/2026/07/17/MSFT-26-07-17/","posts/2026/07/17/MRVL-26-07-17/","posts/2026/07/16/MU-26-07-16/","posts/2026/07/16/META-26-07-16/","posts/2026/07/15/AMZN-26-07-15/","posts/2026/07/15/AMD-26-07-15/","posts/2026/07/14/SPCX-26-07-14/","posts/2026/07/13/DELL-26-07-13/"];function toRandomPost(){
+    pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
+  };
