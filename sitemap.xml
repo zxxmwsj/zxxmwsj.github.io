@@ -47,25 +47,16 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/posts/2026/07/17/NBIS-26-07-17/</loc>
-    
-    <lastmod>2026-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xcwyb.com/posts/2026/07/17/MSFT-26-07-17/</loc>
-    
-    <lastmod>2026-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xcwyb.com/posts/2026/07/17/MRVL-26-07-17/</loc>
+    
+    <lastmod>2026-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xcwyb.com/posts/2026/07/16/META-26-07-16/</loc>
     
     <lastmod>2026-07-19</lastmod>
     
@@ -83,7 +74,16 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/posts/2026/07/16/META-26-07-16/</loc>
+    <loc>https://xcwyb.com/posts/2026/07/17/NBIS-26-07-17/</loc>
+    
+    <lastmod>2026-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xcwyb.com/posts/2026/07/17/MSFT-26-07-17/</loc>
     
     <lastmod>2026-07-19</lastmod>
     
