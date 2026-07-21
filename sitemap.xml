@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/contact/</loc>
+    <loc>https://xcwyb.com/disclaimer/</loc>
     
     <lastmod>2026-07-19</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/disclaimer/</loc>
+    <loc>https://xcwyb.com/contact/</loc>
     
     <lastmod>2026-07-19</lastmod>
     
@@ -196,6 +196,13 @@
   </url>
   
   <url>
+    <loc>https://xcwyb.com/tags/AAPL/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xcwyb.com/tags/AMD/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -204,13 +211,6 @@
   
   <url>
     <loc>https://xcwyb.com/tags/AMZN/</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xcwyb.com/tags/AAPL/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,7 +266,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/SPCX/</loc>
+    <loc>https://xcwyb.com/tags/SNDK/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,7 +280,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/SNDK/</loc>
+    <loc>https://xcwyb.com/tags/SPCX/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
