@@ -207,6 +207,48 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   };
 
+  // 修复移动端浏览器返回时侧边栏状态残留
+  const resetMobileSidebar = () => {
+    const $body = document.body;
+    const menuMask = document.getElementById("menu-mask");
+    const sidebarMenus = document.getElementById("sidebar-menus");
+
+    // 恢复 body
+    if ($body) {
+      $body.style.paddingRight = "";
+      $body.style.overflow = "";
+    }
+
+    // 强制关闭侧边栏
+    if (sidebarMenus) {
+      sidebarMenus.classList.remove("open");
+      sidebarMenus.style.removeProperty("transform");
+    }
+
+    // 强制清除遮罩
+    if (menuMask) {
+      menuMask.style.display = "none";
+      menuMask.style.animation = "";
+      menuMask.style.removeProperty("opacity");
+      menuMask.style.removeProperty("visibility");
+    }
+
+    // 关键：同步 AnZhiyu 内部状态
+    mobileSidebarOpen = false;
+  };
+
+  // 页面离开前先关闭，防止 BFCache 保存“侧边栏打开”的页面状态
+  window.addEventListener("pagehide", resetMobileSidebar);
+
+  // 浏览器前进 / 后退恢复页面时再次强制初始化
+  window.addEventListener("pageshow", () => {
+    resetMobileSidebar();
+
+    requestAnimationFrame(() => {
+      requestAnimationFrame(resetMobileSidebar);
+    });
+  });
+
   /**
    * 首頁top_img底下的箭頭
    */
