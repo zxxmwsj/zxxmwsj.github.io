@@ -1782,6 +1782,19 @@ document.addEventListener("DOMContentLoaded", function () {
       sidebarFn.close();
     });
 
+    // 点击移动端侧边栏中的链接时，先关闭侧边栏再跳转
+    const sidebarMenus = document.getElementById("sidebar-menus");
+
+    if (sidebarMenus) {
+      sidebarMenus.addEventListener("click", e => {
+        const link = e.target.closest("a");
+
+        if (link) {
+          sidebarFn.close();
+        }
+      });
+    }
+
     // 处理右键
     $rightMenu = document.getElementById("rightMenu");
     addDarkModeEventListener("menu-darkmode");
