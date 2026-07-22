@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xcwyb.com/posts/2026/07/22/AVGO-26-07-22/</loc>
+    
+    <lastmod>2026-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xcwyb.com/posts/2026/07/22/SKHY-26-07-22/</loc>
     
     <lastmod>2026-07-22</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/</loc>
+    <loc>https://xcwyb.com/categories/</loc>
     
     <lastmod>2026-07-22</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/categories/</loc>
+    <loc>https://xcwyb.com/tags/</loc>
     
     <lastmod>2026-07-22</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/posts/2026/07/16/META-26-07-16/</loc>
+    <loc>https://xcwyb.com/posts/2026/07/15/AMZN-26-07-15/</loc>
     
     <lastmod>2026-07-22</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/posts/2026/07/15/AMZN-26-07-15/</loc>
+    <loc>https://xcwyb.com/posts/2026/07/16/META-26-07-16/</loc>
     
     <lastmod>2026-07-22</lastmod>
     
@@ -146,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/posts/2026/07/17/MSFT-26-07-17/</loc>
+    <loc>https://xcwyb.com/posts/2026/07/17/MRVL-26-07-17/</loc>
     
     <lastmod>2026-07-21</lastmod>
     
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/posts/2026/07/17/MRVL-26-07-17/</loc>
+    <loc>https://xcwyb.com/posts/2026/07/17/MSFT-26-07-17/</loc>
     
     <lastmod>2026-07-21</lastmod>
     
@@ -223,7 +232,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/AMD/</loc>
+    <loc>https://xcwyb.com/tags/AAPL/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -237,7 +246,14 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/ARM/</loc>
+    <loc>https://xcwyb.com/tags/AMD/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xcwyb.com/tags/AVGO/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -251,7 +267,7 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/AAPL/</loc>
+    <loc>https://xcwyb.com/tags/ARM/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,6 +282,20 @@
   
   <url>
     <loc>https://xcwyb.com/tags/MRVL/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xcwyb.com/tags/INTC/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xcwyb.com/tags/MSFT/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -293,13 +323,6 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/MU/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xcwyb.com/tags/SKHY/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -307,21 +330,14 @@
   </url>
   
   <url>
-    <loc>https://xcwyb.com/tags/MSFT/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xcwyb.com/tags/INTC/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xcwyb.com/tags/SNDK/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xcwyb.com/tags/MU/</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
